@@ -1,0 +1,13 @@
+var x = "Azlan";
+var list = ["apple","banana"];
+console.log(x == "Azlan");
+console.log(x != "Azlan");
+console.log(x.toLowerCase() == "AZLAN");
+console.log(x.toLowerCase() == "azlan");
+console.log(10 + 5 > 14);
+console.log(10 * 2 / 5 < 20);
+console.log(10 + 4 >= 14);
+console.log(10 * 0.2 >= 14);
+console.log(10 + 5 > 14 || 15 + 1 >= 16 && 55-5+5 == 55);
+console.log(list.includes("banana"));
+console.log(list.includes("Appricoat"));

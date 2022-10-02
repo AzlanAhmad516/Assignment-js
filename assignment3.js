@@ -1,0 +1,1 @@
+console.log("Mohammad Ali Jinnah Once said,\"Except the best prepare for the worst.\"");
